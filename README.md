@@ -27,6 +27,8 @@ Languages & Development:
 Other Skills:
 - Basic software troubleshooting (especially for printers and system-related issues)
 Still improving in hardware troubleshooting, but actively learning
+- Photography (mostly candids and sky scenery)
+- Video Editing (random memes, highlights, compilations)
 
 ## 📫 How to Reach Me
 
