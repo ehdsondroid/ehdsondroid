@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! I'm Edward Benedict L. Pavia, a BSIT college student from STI Colleges, currently in 3rd Year – 2nd Semester. I’m naturally curious and enjoy learning how technologies, devices, and systems work behind the scenes.
+Hi! I'm Edward, a BSIT college student from STI Colleges, currently in 3rd Year – 2nd Semester. I’m naturally curious and enjoy learning how technologies, devices, and systems work behind the scenes.
 
 I don’t claim to be an expert (yet), but I grow through consistency, persistence, and determination. I believe improvement comes step by step, and I’m committed to becoming better every day — with the goal of becoming a Software Engineer after I graduate.
 
